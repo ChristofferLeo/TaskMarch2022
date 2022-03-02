@@ -1,7 +1,7 @@
 # TaskMarch2022
 
 ## Laser system
-[Laser Setup](https://github.com/StingrayMarineSolutions/TaskMarch2022/blob/main/laser_setup.png?raw=true)
+![Laser Setup](https://github.com/StingrayMarineSolutions/TaskMarch2022/blob/main/laser_setup.png?raw=true)
 
 The figure shows a simplified 2D version of an underwater laser system consisting of 3 parts: a laser with adjustable rotation, a very thin glass interface between air and water, and a board that can be moved along the x-axis.
 
